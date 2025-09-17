@@ -42,11 +42,18 @@ O objetivo é implementar um **sistema de hospedagem** para gerenciar reservas d
 Ao executar o programa, o usuário interage com o menu para realizar as operações desejadas:
 
 Digite a sua opção:
+
+
 1 - Cadastrar hóspede
+
 2 - Cadastrar suíte
+
 3 - Realizar reserva
+
 4 - Exibir quantidade de hóspedes
+
 5 - Calcular valor da diária
+
 6 - Encerrar
 
 As operações são realizadas conforme a escolha do usuário, com mensagens claras de sucesso ou falha.
