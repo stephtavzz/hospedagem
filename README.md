@@ -69,12 +69,12 @@ As operações são realizadas conforme a escolha do usuário, com mensagens cla
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/stephtavzz/hospedagem.git
+git clone https://github.com/stephtavzz/sistema-hospedagem.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd hospedagem
+cd sistema-hospedagem
 ```
 
 3. Execute o projeto:
